@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    padding: 20px;
+    background-color: black;
+    display: flex;
+    justify-content:space-between;
+   
+}
+.title{
+    color: #fff;
+    text-decoration: none;
+}
+.food{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
